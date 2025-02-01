@@ -71,7 +71,7 @@ class Account:
         return f"Account owner: {self.owner}, Balance: {self.balance}"
       
 #-------------------------------------------------------------------------------MAIN-------------------------------------------------------------------------------------------------
-str = string1()
+str = String1()
 str.getString()
 str.printString()
 
